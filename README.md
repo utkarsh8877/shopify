@@ -17,11 +17,10 @@ A complete MERN stack e-commerce application based on the ShopNest architecture.
 - Razorpay / PayPal integration placeholder
 
 ## Environment Variables
-Create a `.env` file in backend/ with:
 PORT=5000
 NODE_ENV=development
 MONGO_URI=mongodb://127.0.0.1:27017/shopify
-JWT_SECRET=your_secret
+JWT_SECRET=secret
 RAZORPAY_KEY_ID=test
 RAZORPAY_KEY_SECRET=test
 CLOUDINARY_CLOUD_NAME=demo
