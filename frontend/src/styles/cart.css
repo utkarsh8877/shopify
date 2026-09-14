@@ -1,0 +1,29 @@
+.cart-container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: #27272a;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.cart-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.cart-summary {
+  background: #27272a;
+  padding: 1.5rem;
+  border-radius: 8px;
+  height: fit-content;
+}
