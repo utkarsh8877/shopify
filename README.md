@@ -1,6 +1,6 @@
-# Shopify MERN Clone
+# Shopify MERN
 
-A complete MERN stack e-commerce application based on the ShopNest architecture.
+A complete MERN stack e-commerce application.
 
 ## Features
 - Full featured shopping cart
